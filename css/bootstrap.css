@@ -592,24 +592,28 @@ pre code {
 @media (min-width: 576px) {
   .container_img {
     background-size: contain;
+     background-image: url('../images/title1.jpg');
   }
 }
 
 @media (min-width: 768px) {
   .container_img {
     background-size: contain;
+     background-image: url('../images/title2.jpg');
   }
 }
 
 @media (min-width: 992px) {
   .container_img {
     background-size: contain;
+     background-image: url('../images/title3.jpg');
   }
 }
 
 @media (min-width: 1200px) {
   .container_img {
     background-size: contain;
+     background-image: url('../images/title.jpg');
   }
 }
 

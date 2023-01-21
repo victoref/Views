@@ -591,25 +591,25 @@ pre code {
 
 @media (min-width: 576px) {
   .container_img {
-    max-width: 540px;
+    background-size: contain;
   }
 }
 
 @media (min-width: 768px) {
   .container_img {
-    max-width: 720px;
+    background-size: contain;
   }
 }
 
 @media (min-width: 992px) {
   .container_img {
-    max-width: 960px;
+    background-size: contain;
   }
 }
 
 @media (min-width: 1200px) {
   .container_img {
-    max-width: 1140px;
+    background-size: contain;
   }
 }
 
